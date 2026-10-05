@@ -1,5 +1,5 @@
 # --- DropMind runtime data ---
-data/
+/data/
 
 # --- Local configuration / secrets ---
 frontend/config.js
